@@ -21,3 +21,6 @@ After everytime 1 of the above options are entered, it will ask for confirmation
 
 **Choice=False**\
 After everytime 1 of the above options are entered, it will immediately add the score 
+
+# If there are issues then contact me
+Discord server = https://discord.gg/5nJKMmM
